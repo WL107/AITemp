@@ -1,3 +1,2 @@
-#img
-![composition](https://github.com/Oscar-Young/DT-alpine/blob/master/doc/picture/1603965913790.jpg)
-![composition](https://github.com/Oscar-Young/DT-alpine/blob/master/doc/picture/1603965913790.jpg)
+[![composition](https://github.com/WL107/AITemp/blob/main/exp/1.jpg)
+[![composition](https://github.com/WL107/AITemp/blob/main/exp/2.jpg)
