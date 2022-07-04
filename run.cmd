@@ -1,0 +1,1 @@
+python detect.py --source 1 --weights yolov5s.pt --conf 0.7
